@@ -1,5 +1,5 @@
-# Security-measures
-# Windows Security Measures Script Documentation
+
+# Windows Security Measures 
 ## Overview
 This script is designed to apply security measures to a Windows system by modifying system settings and configurations. It employs functions to disable USB ports, Bluetooth functionality, Command Prompt access, and block access to specific websites through the manipulation of system settings.
 
