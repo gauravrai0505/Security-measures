@@ -40,3 +40,14 @@ To run the script:
 + Navigate to the directory containing the script using the cd command.
 + Run the script using the command: python script_filename.py
 + Follow any prompts and confirm administrative permissions, if required.
+
+![VirtualBox_windows_26_08_2023_23_03_48](https://github.com/gauravrai0505/Security-measures/assets/75598640/a7979740-1f1d-4462-8f32-008405936c2b)
+
+![VirtualBox_windows_26_08_2023_23_05_19](https://github.com/gauravrai0505/Security-measures/assets/75598640/5cf0d7f8-bc4a-44a4-a24d-aac3e8bfd8e4)
+
+![VirtualBox_windows_26_08_2023_23_07_47](https://github.com/gauravrai0505/Security-measures/assets/75598640/dd3eba91-1515-4b54-88d3-94ef8909a219)
+
+
+
+
+
